@@ -6,6 +6,7 @@ public class Practice {
 		System.out.println("Hello");
 	//pull
 		//push2
+	//pull2
 	}
 
 }
