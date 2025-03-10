@@ -7,6 +7,7 @@ public class Practice {
 	//pull
 		//push2
 	//pull2
+		//push3
 	}
 
 }
